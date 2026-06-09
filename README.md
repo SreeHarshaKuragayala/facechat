@@ -1,5 +1,9 @@
+<div align="center">
+
 # FaceChat 🤖📷
 ### AI-Powered Face Recognition Chatbot with Secure Session Reporting
+
+</div>
 
 <div align="center">
 
